@@ -25,7 +25,6 @@ The dataset includes information about individuals' sleep duration, quality of s
 
 - `sleep_health_analysis.ipynb`: Jupyter Notebook containing the code for data analysis, visualizations, and machine learning models.
 - `sleep_health_dataset.csv`: The Sleep Health and Lifestyle dataset used for analysis.
-- `requirements.txt`: List of required Python packages for the project.
 
 ## Analysis
 
@@ -41,7 +40,3 @@ The analysis includes the following steps:
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
